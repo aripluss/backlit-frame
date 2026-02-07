@@ -1,0 +1,1 @@
+import{g as i}from"./utils-rQIEcC9D.js";async function f(c,o){const e=document.querySelector(c);if(!e)return;let n=await(await fetch(i("shared/catalog-item.html"))).text();o.forEach(a=>{let t=n;Object.keys(a).forEach(r=>{t=t.replaceAll(`{{${r}}}`,a[r])}),e.insertAdjacentHTML("beforeend",t)})}export{f as i};

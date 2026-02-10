@@ -1,0 +1,1 @@
+import{l as t,g as a}from"./utils-BQWwIzTP.js";import{i as o}from"./toggle-image-yBaQMQ0s.js";async function r(){await t("header",a("header.html")),await t("product-header",a("product-page/product-header.html")),await t("product-info",a("product-page/product-info.html")),await t("footer",a("footer.html")),o()}r();

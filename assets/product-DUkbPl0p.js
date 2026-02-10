@@ -1,0 +1,1 @@
+import{l as t,g as a}from"./utils-BQWwIzTP.js";async function o(){await t("header",a("header.html")),await t("product-header",a("product-page/product-header.html")),await t("product-info",a("product-page/product-info.html")),await t("footer",a("footer.html"))}o();

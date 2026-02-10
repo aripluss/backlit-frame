@@ -1,1 +1,0 @@
-import{l as a,g as t}from"./utils-zpX4lMT-.js";async function o(){await a("header",t("header.html")),await a("product-header",t("product-page/product-header.html")),await a("product-info",t("product-page/product-info.html")),await a("footer",t("footer.html"))}o();
